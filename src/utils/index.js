@@ -1,0 +1,1 @@
+export { callFns } from './callFns'
